@@ -1,8 +1,7 @@
-version/
-.venv/
-__pycache__/
-script/
+/test
 
-
-*.log
+test.*
 *.zip
+*.7z
+config.json
+__pycache__/
